@@ -22,7 +22,7 @@ git clone https://github.com/Makeuseun/DBMDB
 ### 2. Install Dependencies
 
 ```
-npm install discord.js dotenv axios
+npm install discord.js axios
 ```
 
 ### 3. Create Bot, Get and Set Token
